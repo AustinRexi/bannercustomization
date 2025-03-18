@@ -39,7 +39,7 @@ Jest: Testing framework with jsdom for DOM-based unit tests.
 Installation
 Clone the repository:
 bash
-
+git clone: https://github.com/AustinRexi/bannercustomization.git
 Navigate to the project directory:
 bash
 
